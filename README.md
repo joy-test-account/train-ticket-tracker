@@ -1,5 +1,2 @@
 # train-ticket-tracker
-
-Joy: added this readme.md 
-Updating readme.md
-Update again
+Remove all Joy previous content from this readme.md
